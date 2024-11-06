@@ -2,9 +2,10 @@
 body {
     font-family: Arial, sans-serif;
     height: 100%;
-    background-image:url( "FullBG.jpg") ;
+    background-color: #021218;
     background-size: 100% ;
     margin: 50px;
+    
 }
 
 h1 {
@@ -25,44 +26,52 @@ p {
     background-size: 100% 100%;
     margin: 10px;
     padding: 100px;
-    font-size: 50px;
+    font-size: 60px;
     border: 3px solid #000000;
     align-self: center;
 
 }
+#Contact
+{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    align-self: center;
+
+}
+.Large
+{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+}
 #Content
 {
 
-    color: rgb(255, 255, 255);
+    color: rgb(235, 227, 227);
     text-align: left;
     font-size: 25px;
-
+    margin: auto;
     background-size: 100% 100%;
+    margin: auto;
+    padding: 30px;
+    width: 600px;
+    height: auto;
     
 }
+
 
 #Label
 {
     text-align: center;
     color: rgb(255, 255, 255);
     background-image:url( "subjectBG.jpg") ;
-    margin: 10px;
+    margin: auto;
     padding: 30px;
     font-size: 30px;
     border: 3px solid #000000;
-    width: 400px;
+    width: 700px;
     height: auto;
 }
 
 
-
-.center {
-    margin: auto;
-    width: 60%;
-    padding: 10px;
-  }
-
-  #skip
-  {
-    padding-top: 4000px;
-  }
