@@ -15,14 +15,15 @@ h1 {
 
 p {
     color: #e2e2e2;
-    background-color: #701100;
+    background-color: #034004;
 }
 
 #Title
 {
     text-align: center;
     color: rgb(255, 255, 255);
-    background-image:url( "titleBG.JPG") ;
+    background-color: #041201;
+   /* background-image:url( "TBG.jpg") ;*/
     background-size: 100% 100%;
     margin: 20px;
     padding: 50px;
